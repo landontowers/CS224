@@ -1,0 +1,16 @@
+1. /users/guest/l/latowers
+2. /users/guest/l/latowers/cs224
+3. 0 - N/A
+4. 7 - Bashful.txt, Dopey.txt, Happy.txt, Sneezy.txt, Doc.txt, Grumpy.txt, Sleepy.txt
+5. 5 - bears, house, beds, bowls, chairs
+6. ~/cs224/Lab0/f2/Goldilocks.txt, ~/cs224/Lab0/f2/bears/BabyBear.txt,  ~/cs224/Lab0/f2/bears/MamaBear.txt,  ~/cs224/Lab0/f2/bears/PapaBear.txt,
+   ~/cs224/Lab0/f2/house/beds/JustRight.txt, ~/cs224/Lab0/f2/house/beds/TooHard.txt, ~/cs224/Lab0/f2/house/beds/TooSoft.txt,
+   ~/cs224/Lab0/f2/house/bowls/JustRight.txt, ~/cs224/Lab0/f2/house/bowls/TooCold.txt, ~/cs224/Lab0/f2/house/bowls/TooHot.txt,
+   ~/cs224/Lab0/f2/house/chairs/JustRight.txt, ~/cs224/Lab0/f2/house/chairs/TooHard.txt, ~/cs224/Lab0/f2/house/chairs/TooSoft.txt
+7. cp Goldilocks.txt ./house/beds/Goldilocks.txt
+8. rm ./house/chairs/JustRight.txt
+9. mv Theseus.txt ./Right/Right/Left/Theseus.txt
+10. /users/guest/l/latowers/cs224/Lab0/f3/Right/Right/Left
+11. The first number is 270
+    The second number is 289
+    The result is 224
